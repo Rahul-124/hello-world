@@ -1,6 +1,5 @@
-# hello-world
+# hello
 
-hi humans!
+hi baby I'm really sorry 
 
-Rahul here, i like codes, js, python.
-I love technology.
+Rahul here
